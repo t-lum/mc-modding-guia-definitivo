@@ -14,6 +14,16 @@
 ///	///	Conceitos de Programação
 ///
 
+↪ Setup para modding (1.18.1)
+
+    ↪ JDK 
+
+        ↪ Adoptium (Temurin)
+
+    ↪ IDE
+
+        ↪ IntelliJ IDEA
+
 ↪ 
 
     ↪ 
@@ -26,8 +36,97 @@
 ///	///	Fontes
 ///
 
-↪ 
 
-    ↪ 
+// Checar
 
-    ↪ 
+↪ Udemy
+
+    ↪ Modding By Kaupenjoe: Fabric Modding for Minecraft 1.18.1
+    https://www.udemy.com/course/minecraft-modding-fabric-118/        
+
+↪ Youtube
+
+    ↪ Canais
+    
+        ↪ Modding by Kaupenjoe
+        https://www.youtube.com/@ModdingByKaupenjoe
+    
+        ↪ TotallyGamerJet
+        https://www.youtube.com/@TotallyGamerJet
+
+        ↪ Draylar
+        https://www.youtube.com/@draylar4312
+
+        ↪ TechnoVision
+        https://www.youtube.com/@TechnoVisionTV
+
+        ↪ Mathew Lefebvre
+        https://www.youtube.com/@mathewlefebvre7335
+
+        ↪ ErnieBernie
+        https://www.youtube.com/@ErnieBernie10
+
+        ↪ Niche Duck
+        https://www.youtube.com/@nicheduck3352
+
+    ↪ Playlists (Modding by Kaupenjoe)
+    
+        ↪ Minecraft Modding Fabric 1.17.1 Tutorials
+        https://www.youtube.com/playlist?list=PLKGarocXCE1FKR-UzlU1l9qrPhnE36qFe
+    
+        ↪ Minecraft 1.18.1 Fabric Modding Tutorials
+        https://www.youtube.com/playlist?list=PLKGarocXCE1ECgBI1_Z_Yr4qMdhjVi3kg
+    
+        ↪ Fabric 1.18.2 World Gen Tutorials
+        https://www.youtube.com/playlist?list=PLKGarocXCE1FMQquHU00BFCbjVnGYma8d
+    
+        ↪ Fabric 1.18.2 Block Entity Tutorials
+        https://www.youtube.com/playlist?list=PLKGarocXCE1F5x1EinY1eV4YB8nxEFQ4L
+
+        ↪ Fabric Geckolib Entity Tutorials
+        https://www.youtube.com/playlist?list=PLKGarocXCE1H7lMgKRVakmRnNDOA9aN8o
+
+        ↪ Fabric Structures 1.18.2
+        https://www.youtube.com/playlist?list=PLKGarocXCE1HTwAzcZjbYoQOd30pkV2Qd
+
+        ↪ Minecraft 1.19 Fabric Modding Tutorials
+        https://www.youtube.com/playlist?list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_
+
+        ↪ Custom Thirst System in Fabric Minecraft 1.19.1 Modding
+        https://www.youtube.com/playlist?list=PLKGarocXCE1GpU_mSYt_2G3aePZVgB3pK
+
+        ↪ Minecraft 1.19.3 Fabric Modding Tutorials
+        https://www.youtube.com/playlist?list=PLKGarocXCE1EMYzuBUTYjHnFeBrRFbesk
+
+    ↪ Playlists
+    
+        ↪ TotallyGamerJet's Ultimate Minecraft Fabric Mod Loader Tutorial Series
+        https://www.youtube.com/playlist?list=PLtlFYEU3W_IETs8A9ei01mSxYV5a0nXCp
+
+        ↪ Modding with Draylar
+        https://www.youtube.com/playlist?list=PLHTNHyaaUBPZVqVArMPu02AMDSAlA4JtR
+
+        ↪ Fabric Tutorials
+        https://www.youtube.com/playlist?list=PLHTNHyaaUBPYq-lKVfrtkjXaGn9UGS3Iq
+
+        ↪ Minecraft Fabric Modding Tutorials (1.16.4)
+        https://www.youtube.com/playlist?list=PLDhiRTZ_vnoVKPsdTLORpcRnQ50fRdb-S
+
+        ↪ Minecraft Fabric Modding Tutorials (1.19)
+        https://www.youtube.com/playlist?list=PLDhiRTZ_vnoV0O_V_hSf2Z-GWEwYK1RlC
+
+        ↪ Fabric Modding Tutorials
+        https://www.youtube.com/playlist?list=PL8X8fh83WfSczkiKjA7szT3bTjT18sYue
+
+        ↪ Videos do ErnieBernie (Não é uma playlist)
+
+            ↪ Minecraft Fabric Modding Tutorial! (Mixin and NBT data)
+            https://www.youtube.com/watch?v=6MMv4tEy5aQ
+
+            ↪ Minecraft Fabric Modding Tutorial! (GUIs)
+            https://www.youtube.com/watch?v=WZbKcQ6B12I
+
+            ↪ Minecraft Fabric Modding Tutorial! (Inventories and Container GUIs)
+            https://www.youtube.com/watch?v=Ca769FY4pOg
+
+    ↪
