@@ -8,6 +8,13 @@
 
     ↪ 
 
+↪ 
+
+    ↪ 
+
+    ↪ 
+
+
 
 
 ///
@@ -24,11 +31,175 @@
 
         ↪ IntelliJ IDEA
 
-↪ 
+↪ Design
+
+    ↪ Dentro de src criar pasta net, dentro dela o nome do projeto (para ficar futuramente net.projeto.exemplo)
 
     ↪ 
 
-    ↪ 
+↪ IDE
+
+    ↪ IntelliJ
+
+        ↪ "Compact Middle Parents" desativado para ver melhor as pastas
+
+↪ Java
+
+    ↪ Datatypes (tipos de váriavel)
+
+    ↪ Syntax (como funciona um algoritmo)
+
+        ↪ Código lido de cima para baixo e etc (Sequencial)
+
+        ↪ Comentários
+
+        ↪ Váriaveis, declaração, atribuição ou inicialização (q é os 2 ao mesmo tempo)
+
+        ↪ Frizar a diferença de Objeto e Váriavel
+
+    ↪ Composição (de objetos)
+
+    ↪ Input e Output (Hello World e Scanner)
+
+        ↪ por conta de algumas caracteristicas do Java o Input é mais complicado
+
+    ↪ Exceções e problemas
+
+        ↪ Valor de exit tem que ser zero, se não for é um erro
+
+        ↪ O código não diz muita coisa, é necessário ler a exception
+
+    ↪ Aritmética e classe Math
+
+    ↪ Operadores de atribuição
+
+    ↪ Operadores de comparação
+
+    ↪ Operadores lógicos
+
+        ↪ Tabela
+
+    ↪ Algoritmo condicional (if, else, switch-case)
+
+    ↪ String e seus métodos
+
+    ↪ Conversão de tipos de dados
+
+    ↪ Operador Ternáros (e outros semelhantes)
+
+    ↪ Arrays
+
+    ↪ Estruturas Repetitivas (loops com for, while, foreach e etc)
+
+    ↪ Métodos
+
+    ↪ Coleções
+
+        ↪ Arraylist, Maps e Sets
+
+        ↪ List e Arraylist
+
+            ↪ É dinâmica então não precisa definir o tamanho no começo
+
+            ↪ Add e remove
+
+            ↪ Com tipos primitivos
+
+            ↪ Trabalhar com genéricos
+
+        ↪ Maps
+
+            ↪ Keys e Values (Key-Value Pair)
+
+            ↪ Conter chave
+
+            ↪ Buscar e remover por chave
+
+        ↪ Sets
+
+            ↪ Não pode ter duplicados
+
+        ↪ Erro comuns em coleções
+
+            ↪ Ao pegar um item fora do range
+
+            ↪ Ao pegar item de uma lista nula
+
+    ↪ Wrapper e Boxes
+
+    ↪ OOP (Programação Orientada a Objetos)
+
+        ↪ Classes: sendo templates para Objetos
+
+        ↪ Objetos: é uma instância individual
+
+        ↪ Classes e Objetos possuem Membros:
+
+            ↪ Métodos: funções e atividades do Objeto
+
+            ↪ Campos: atributos como nome, idade e etc
+
+        ↪ Encapsulamento Ou modificadores de acesso 
+
+            ↪ Getters e Setters
+
+        ↪ Instância e Estático
+
+        ↪ Construtor
+
+        ↪ Herança e Polimorfismo
+
+            ↪ Super class e Sub class (herança)
+
+            ↪ Override
+
+            ↪ Interfaces e abstratos
+
+                ↪ Interface e contratos
+
+                ↪ Criar lista com interface
+
+    ↪ Classe anônima
+
+        ↪ Override na declaração
+
+    ↪ Enums
+
+        ↪ Enums avançado 
+
+            ↪ Com váriaveis
+
+            ↪ Com construtor
+
+            ↪ Com métodos
+
+    ↪ Exceções e try-catch
+    
+        ↪ Exception personalizada
+
+        ↪ Throw
+
+    ↪ Expressões Lambda
+
+        ↪ Funções como váriaveis
+
+        ↪ Supplier (sem parâmetros, mas retorna valor): () -> x
+
+        ↪ Consumer (1 parâmetro mas, não retorna valor): x -> ()
+
+        ↪ Callable (sem parâmetros, e retorna valor): () -> x throws exception
+
+        ↪ Runnable (sem parâmetros e retornos): () -> ()
+
+        ↪ Function (sem parâmetros, e retorna valor): x -> y
+
+    ↪ Genéricos
+
+        ↪ <T>
+
+        ↪ Tipo genéricos podem herdar tipos de váriaveis
+
+        ↪ Wildcard Generic (?)
 
 
 
@@ -42,7 +213,15 @@
 ↪ Udemy
 
     ↪ Modding By Kaupenjoe: Fabric Modding for Minecraft 1.18.1
-    https://www.udemy.com/course/minecraft-modding-fabric-118/        
+    https://www.udemy.com/course/minecraft-modding-fabric-118/ 
+
+        ↪ Fazer Tarefa: Trivia Game #1
+
+        ↪ Tarefa: Updating the Trivia Game with Methods
+
+        ↪ Tarefa: Updating Trivia Game with Classes
+
+        ↪ Tarefa: Bank Management Program
 
 ↪ Youtube
 
