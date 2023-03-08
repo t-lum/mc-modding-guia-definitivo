@@ -2,18 +2,105 @@
 ///	///	MC Modding
 ///
 
+↪ Introdução
+
+    ↪ Setup
+
+        ↪ JDK 
+
+            ↪ Adoptium (Temurin)
+
+        ↪ IDE
+
+            ↪ IntelliJ IDEA
+
+        ↪ Baixar o fabric-example-mod (template de mod)
+
+        ↪ Deletar a licença, readme e github do template
+
+    ↪ Configuração
+
+        ↪ Mudanças
+
+            ↪ Configurar JDK e Language level na estrutura de projeto
+
+            ↪ Configurar o nome do pacote para o mod exemplo "net.nome.exemplo"
+        
+            ↪ Deletar "modid" dentro de resources/assets
+            
+            ↪ No arquivo main do mod sempre criar um "public static final String MOD_ID" para ser o ID do mod
+
+                ↪ só pode letra minúsculas, traços, underline e números (sem maiúsculo LEMBRAR)
+
+            ↪ Trocar o modid do Logger pelo nosso MOD_ID
+
+        ↪ "gradle.properties" para trocar algumas informações como versão do jogo
+
+            ↪ Propriedades do Fabric
+
+                ↪ minecraft_version -> Versão do jogo
+
+                ↪ yarn_mappings -> Versão do mapeamento, para traduzir código e ler nome de métodos
+
+                ↪ loader_version -> Versão do loader do Fabric
+
+            ↪ Propriedades do Mod
+
+                ↪ 
+
+                ↪ 
+
+                ↪ 
+
+            ↪ Dependências
+
+                ↪ 
+
+        ↪ Configurando O "gradle.properties" para o projeto
+
+            ↪ Trocar a versão do mod por sempre "versãomod-versãogame", exemplo "0.0.1-1.18.2"
+
+            ↪ Trocar o grupo do maven pelo novo pacote editado do mod
+
+            ↪ Trocar o nome base pelo o do mod a se desenvolver
+
+        ↪ "modid.mixins.json" em resources
+
+            ↪ Mudar o package para o mesmo do arquivo Mixin
+
+            ↪ Refactor no nome do arquivo alterando o modid exemplo: "mccourse.mixins.json"
+
+        ↪ "fabric.mod.json" em resources
+
+            ↪ Mudar o id para o do modid
+
+            ↪ Mudar o name para o nome do mod
+
+            ↪ Mudar o description para a descrição desejada
+
+            ↪ Mudar o authors para colocar os autores
+
+            ↪ Mudar o Contact para por o seu site e github (código fonte lá)
+
+            ↪ Mudar o license para colocar sua licença (preferivel MIT por ser open source)
+
+            ↪ Mudar o entrypoints para o package atual do mod, além da classe main (exemplo: net.tlum.mccourse.MCCourseMod)
+
+            ↪ Mudar o mixins para o do seu mixin
+
+            ↪ Mudar o Icon para colocar o Icone do mod
+
+        ↪ Para iniciar dar Run e iniciar o Game
+
+            ↪ Entrar em Gradle a direita do IntelliJ, entrar em Tasks/fabric e executar o runClient com dois cliques
+
+            ↪ As vezes da alguns erros nos logs, mas roda normalmente
+
 ↪ 
 
     ↪ 
 
     ↪ 
-
-↪ 
-
-    ↪ 
-
-    ↪ 
-
 
 
 
@@ -21,7 +108,7 @@
 ///	///	Conceitos de Programação
 ///
 
-↪ Setup para modding (1.18.1)
+↪ Setup Java Dev
 
     ↪ JDK 
 
@@ -200,6 +287,10 @@
         ↪ Tipo genéricos podem herdar tipos de váriaveis
 
         ↪ Wildcard Generic (?)
+
+↪ GIT
+
+    ↪ 
 
 
 
